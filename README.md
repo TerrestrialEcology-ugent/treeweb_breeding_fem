@@ -2,8 +2,7 @@
 
 TREEWEB Breeding performance data foreco
 
-This repository contains raw data on the breeding perforamnce of Great tit and Blue tit and forest fragmentation data from the manuscript: "Forest fragmentation and tree species composition jointly shape breeding
-performance of two avian insectivores". The file "Treeweb_Breeding_performance_rawdata.csv" contains:
+This repository contains raw data on the breeding performance of Great tit and Blue tit and forest fragmentation data from the manuscript: "Forest fragmentation and tree species composition jointly shape breeding performance of two avian insectivores". The file "Treeweb_Breeding_performance_rawdata.csv" contains:
 - nest_id (unique id for every nest)
 - nestbox (unique id for every nestbox, 4 nestboxes per plot)
 - plot (unique id for every study plot)
