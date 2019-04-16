@@ -18,3 +18,4 @@ This repository contains raw data on the breeding performance of Great tit and B
 - Collected_eggs (if eggs were collected for a related study)
 - hatchling_number (number of hatched eggs)
 - fledgling_number (number of young alive 15 days after hatching)
+- frass (mass of frass fall in the 15 days between hatching and fledging, measured in 3 frass traps in the study plot)
